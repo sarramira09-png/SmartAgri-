@@ -1,0 +1,6 @@
+{
+  "name": "SmartAgri AI",
+  "description": "Agent intelligent pour la surveillance et l'optimisation des cultures : fusion de capteurs de sol, météo et vision par IA pour le diagnostic foliaire et l'irrigation prédictive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
